@@ -1,0 +1,7 @@
+C:\Users\Gökhan\source\repos\PİSTİ_OYUNU\PİSTİ_OYUNU\bin\Debug\PİSTİ_OYUNU.exe.config
+C:\Users\Gökhan\source\repos\PİSTİ_OYUNU\PİSTİ_OYUNU\bin\Debug\PİSTİ_OYUNU.exe
+C:\Users\Gökhan\source\repos\PİSTİ_OYUNU\PİSTİ_OYUNU\bin\Debug\PİSTİ_OYUNU.pdb
+C:\Users\Gökhan\source\repos\PİSTİ_OYUNU\PİSTİ_OYUNU\obj\Debug\PİSTİ_OYUNU.csproj.AssemblyReference.cache
+C:\Users\Gökhan\source\repos\PİSTİ_OYUNU\PİSTİ_OYUNU\obj\Debug\PİSTİ_OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\source\repos\PİSTİ_OYUNU\PİSTİ_OYUNU\obj\Debug\PİSTİ_OYUNU.exe
+C:\Users\Gökhan\source\repos\PİSTİ_OYUNU\PİSTİ_OYUNU\obj\Debug\PİSTİ_OYUNU.pdb
